@@ -1,10 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=hacktask-3sc3-dm6dud9l6-ritikkr066.vercel.app&projectName=hacktask-3sc3&s=https%3A%2F%2Fgithub.com%2Fritikkr066%2Fhacktask&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
 
-## Getting Started
 
-First, run the development server:
-
-```bash
 npm run dev
 # or
 yarn dev
