@@ -1,4 +1,4 @@
-https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=hacktask-3sc3-dm6dud9l6-ritikkr066.vercel.app&projectName=hacktask-3sc3&s=https%3A%2F%2Fgithub.com%2Fritikkr066%2Fhacktask&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
+https://hacktask-3sc3.vercel.app/
 
 
 npm run dev
